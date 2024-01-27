@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+}
+h1 {color: brown;}
+    .buttonone{
+        color: blueviolet;
+        width: 66px;
+        height: 26px;
+    }
+     #one {color: yellow;}
+     [type="text"] {
+    cursor: help;
+     }
+     .element {
+        display: flex;
+        width: 357px;
+        height: 356px;}
+        .element_text {
+        background-color: aqua;
+}
+.element_text {
+    width: 150px;
+    height: 200px;
+    background-color: aquamarine;
+}
